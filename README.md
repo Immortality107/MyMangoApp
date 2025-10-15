@@ -1,0 +1,2 @@
+# MyMangoApp
+Microservices practicing project
