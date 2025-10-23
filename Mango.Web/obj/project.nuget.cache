@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hUaUqkQClvk=",
+  "success": true,
+  "projectFilePath": "C:\\Kholoud\\Microservices .NET 8 Course (NEW COURSE)\\Mango\\Mango.Web\\Mango.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
